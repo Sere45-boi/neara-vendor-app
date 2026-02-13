@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "691319123840",
+    "project_id": "neara-app",
+    "storage_bucket": "neara-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691319123840:android:aec97a462b0cc9e90e5b65",
+        "android_client_info": {
+          "package_name": "com.neara.eleso.ng.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpqxWPGAdBvwCcmeGbUGSJ5M0_WUeMiNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691319123840:android:31fc0c1a2bf09f640e5b65",
+        "android_client_info": {
+          "package_name": "com.neara.eleso.ng.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpqxWPGAdBvwCcmeGbUGSJ5M0_WUeMiNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691319123840:android:844a90b80a94d85f0e5b65",
+        "android_client_info": {
+          "package_name": "com.neara.eleso.ng.vendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpqxWPGAdBvwCcmeGbUGSJ5M0_WUeMiNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
